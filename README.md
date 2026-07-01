@@ -83,13 +83,9 @@ Gosto de entender como as coisas funcionam por dentro, seja em um script Python,
 
 ## 📊 Linguagens mais utilizadas
 
-<div align="center">
-
-<img src="./github-metrics.svg" alt="Linguagens mais utilizadas"/>
-
-</div>
-
-<br>
+<p align="center">
+  <img src="metrics.plugin.languages.svg" alt="Linguagens mais utilizadas">
+</p>
 
 ## 📬 Contato
 
