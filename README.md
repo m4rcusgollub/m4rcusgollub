@@ -58,10 +58,7 @@ Gosto de entender como as coisas funcionam por dentro, seja em um script Python,
 
 <div align="center">
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rcusgollub&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" 
-    alt="Linguagens mais utilizadas"
-  />
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=m4rcusgollub&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
