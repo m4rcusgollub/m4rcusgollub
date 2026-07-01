@@ -52,12 +52,17 @@ Gosto de entender como as coisas funcionam por dentro, seja em um script Python,
 - Construir um portfólio com projetos bem documentados
 - Manter constância nos estudos e evoluir a cada projeto
 
-<br>📊 Linguagens mais utilizadas
+<br>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rcusgollub&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas"/></div><br>📬 Contato
+## 📊 Linguagens mais utilizadas
 
-<div align="center"><a href="https://github.com/m4rcusgollub">
-  <img src="https://img.shields.io/badge/GitHub-m4rcusgollub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a></div><br><img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:0F2027&height=100&section=footer" width="100%"/><div align="center">
-  <sub>Perfil em constante atualização conforme novos projetos e aprendizados.</sub>
+<div align="center">
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rcusgollub&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" 
+    alt="Linguagens mais utilizadas"
+  />
+
 </div>
+
+<br>
