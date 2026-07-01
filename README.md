@@ -59,10 +59,19 @@ Gosto de entender como as coisas funcionam por dentro, seja em um script Python,
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/m4rcusgollub?theme=dark">
-  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/m4rcusgollub">
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://github-used-languages.vercel.app/m4rcusgollub?theme=dark"
+  >
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://github-used-languages.vercel.app/m4rcusgollub?theme=light"
+  >
+  <img 
+    alt="Linguagens mais utilizadas" 
+    src="https://github-used-languages.vercel.app/m4rcusgollub"
+  >
 </picture>
-
 
 </div>
 
